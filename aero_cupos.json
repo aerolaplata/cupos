@@ -1,15 +1,11 @@
 {
   "openapi" : "3.0.0",
-  "externalDocs" : {
-    "description" : "Encuentre mas información aquí",
-    "url" : "https://git.aero.tur.ar/jsivori/aero-packs/wikis/swaggerdocs"
-  },
   "info" : {
-    "title" : "Aero Paquetes",
-    "description" : "Aero-Packs es la aplicacion donde Aero S.R.L ofrece todos sus servicios en un único servicio integral.\n\nEste documento debe utilizarse como referencia para utilizar la API de AeroPacks. El mismo, esta en version beta. Pueden haber modificaciones o nueva información puede ser añadida.\n\nSe necesitan credenciales de acceso para el uso de esta API.\n",
+    "title" : "Aero Cupos",
+    "description" : "Sistema de cupos de Aerolaplata para consultar y reservar.\n",
     "version" : "1.0",
     "contact" : {
-      "email" : "jonatan.sivori@aerolaplata.com.ar"
+      "email" : "antonela.falcon@aerolaplata.com.ar esteban.informatica@gmail.com"
     },
     "license" : {
       "name" : "Apache 2.0",
