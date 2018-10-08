@@ -2,6 +2,9 @@
   "openapi" : "3.0.0",
   "info" : {
     "title" : "Aero Cupos",
+    "x-logo": {
+      "url": "https://sitio.aero.tur.ar/assets/logo-positive-ac9a94f014542271c698fdd81c08a30f0ae53f50c7eedfe418680a82b797b975.svg"
+    },
     "description" : "Sistema de cupos de Aerolaplata para consultar y reservar.\n",
     "version" : "1.0",
     "contact" : {
